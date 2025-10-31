@@ -9,6 +9,8 @@
 [![OpenCore](https://img.shields.io/badge/OpenCore-1.0.0-blue)](https://github.com/acidanthera/OpenCorePkg)
 [![macOS](https://img.shields.io/badge/macOS-Ventura-brightgreen)](https://www.apple.com/macos/ventura/)
 
+**English** | [Español](README_ES.md)
+
 </div>
 
 ---
